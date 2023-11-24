@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6F3C&height=100&section=header&text=Hi%20there!&fontSize=50" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7204D&repeat=false&random=false&width=435&height=30&lines=Sadhvi+Selvaraj)](https://git.io/typing-svg)
 
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7204D&repeat=false&random=false&width=435&height=30&lines=Junior+Security+Analyst)](https://git.io/typing-svg)
 
 ```yaml
 name: Sadhvi Selvaraj
