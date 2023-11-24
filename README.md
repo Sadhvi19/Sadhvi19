@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71B3B&random=false&width=435&lines=Junior+Security+Analyst)](https://git.io/typing-svg)
 
 ```yaml
-name: Sadhvi Selvaraj
-located_in: India
-current_job: Security Analyst
+
 education:
   [
     "Bachelor's in Electronics and Computer",
