@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hi%20there!&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6F3C&height=100&section=header&text=Hi%20there!&fontSize=50" />
 
 </p>
 
@@ -54,6 +54,7 @@ interestred domains:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
           
 </p>
+
 
 <!--
 **Sadhvi19/Sadhvi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
