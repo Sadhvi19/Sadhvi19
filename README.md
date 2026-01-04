@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F71B3B&repeat=false&random=false&width=435&lines=Sadhvi+Selvaraj)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71B3B&random=false&width=435&lines=Junior+Security+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71B3B&random=false&width=435&lines=Graduate+Student+-+Cybersecurity)](https://git.io/typing-svg)
 
 ```yaml
 
